@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 400" width="1500" height="400">
   <defs>
-    <radialGradient id="glow" cx="22%" cy="30%" r="95%">
+    <radialGradient id="glow" cx="22%" cy="26%" r="95%">
       <stop offset="0" stop-color="#1a1815"/>
       <stop offset="1" stop-color="#0e0d0b"/>
     </radialGradient>
@@ -8,7 +8,7 @@
 
   <rect x="4" y="4" width="1492" height="392" rx="24" fill="url(#glow)" stroke="#23211d" stroke-width="1.5"/>
 
-  <!-- corner frame marks (clear of content) -->
+  <!-- corner frame marks -->
   <g stroke="#6b6660" stroke-width="2.5" fill="none">
     <path d="M45 84 V45 H84"/>
     <path d="M1455 84 V45 H1416"/>
@@ -16,34 +16,39 @@
     <path d="M1455 316 V355 H1416"/>
   </g>
 
-  <!-- top-left tag + barcode -->
-  <text x="95" y="96" fill="#8a857c" font-size="20" font-weight="600" letter-spacing="7" font-family="Archivo, sans-serif">CRT // DEV</text>
-  <rect x="95" y="102" width="4" height="18" fill="#6b6660"/>
-  <rect x="102" y="112" width="4" height="8" fill="#6b6660"/>
-  <rect x="109" y="102" width="4" height="18" fill="#6b6660"/>
-  <rect x="116" y="114" width="4" height="6" fill="#6b6660"/>
-  <rect x="123" y="106" width="4" height="14" fill="#6b6660"/>
-  <rect x="130" y="114" width="4" height="6" fill="#6b6660"/>
-  <rect x="137" y="102" width="4" height="18" fill="#6b6660"/>
-  <rect x="144" y="110" width="4" height="10" fill="#6b6660"/>
-  <rect x="151" y="114" width="4" height="6" fill="#6b6660"/>
-  <rect x="158" y="102" width="4" height="18" fill="#6b6660"/>
-  <rect x="165" y="114" width="4" height="6" fill="#6b6660"/>
-  <rect x="172" y="106" width="4" height="14" fill="#6b6660"/>
-  <rect x="179" y="102" width="4" height="18" fill="#6b6660"/>
-  <rect x="186" y="112" width="4" height="8" fill="#6b6660"/>
+  <!-- name hero (top) -->
+  <text x="92" y="150" font-size="96" font-family="Archivo Black, sans-serif"><tspan fill="#e8e1d0">JIRO</tspan><tspan fill="#c1342c"> DAVID</tspan></text>
+  <rect x="98" y="168" width="210" height="9" fill="#c1342c"/>
+  <!-- japanese reading under the name -->
+  <text x="100" y="212" fill="#c1342c" font-size="24" font-weight="500" letter-spacing="9" font-family="Noto Sans JP, sans-serif">ジロ・デイビッド</text>
+
+  <!-- lower-left technical tag + barcode -->
+  <text x="95" y="306" fill="#8a857c" font-size="20" font-weight="600" letter-spacing="7" font-family="Archivo, sans-serif">CRT // DEV</text>
+  <rect x="95" y="314" width="4" height="18" fill="#6b6660"/>
+  <rect x="102" y="324" width="4" height="8" fill="#6b6660"/>
+  <rect x="109" y="314" width="4" height="18" fill="#6b6660"/>
+  <rect x="116" y="326" width="4" height="6" fill="#6b6660"/>
+  <rect x="123" y="318" width="4" height="14" fill="#6b6660"/>
+  <rect x="130" y="326" width="4" height="6" fill="#6b6660"/>
+  <rect x="137" y="314" width="4" height="18" fill="#6b6660"/>
+  <rect x="144" y="322" width="4" height="10" fill="#6b6660"/>
+  <rect x="151" y="326" width="4" height="6" fill="#6b6660"/>
+  <rect x="158" y="314" width="4" height="18" fill="#6b6660"/>
+  <rect x="165" y="326" width="4" height="6" fill="#6b6660"/>
+  <rect x="172" y="318" width="4" height="14" fill="#6b6660"/>
+  <rect x="179" y="314" width="4" height="18" fill="#6b6660"/>
+  <rect x="186" y="324" width="4" height="8" fill="#6b6660"/>
 
   <!-- top-right index -->
   <text x="1406" y="96" text-anchor="end" fill="#c1342c" font-size="20" font-weight="700" letter-spacing="5" font-family="Archivo, sans-serif">NO.01</text>
   <path d="M1418 80 h15 v15 z" fill="#c1342c"/>
 
-  <!-- identity block (vertically centred, left) -->
-  <text x="97" y="178" fill="#c1342c" font-size="24" font-weight="500" letter-spacing="9" font-family="Noto Sans JP, sans-serif">ジロ・デイビッド</text>
-  <text x="92" y="270" font-size="96" font-family="Archivo Black, sans-serif"><tspan fill="#e8e1d0">JIRO</tspan><tspan fill="#c1342c"> DAVID</tspan></text>
-  <rect x="98" y="288" width="208" height="9" fill="#c1342c"/>
-  <text x="100" y="330" fill="#7c8a6a" font-size="25" font-weight="600" letter-spacing="9" font-family="Archivo, sans-serif">SOFTWARE ENGINEER</text>
+  <!-- right column: role -->
+  <line x1="1070" y1="150" x2="1070" y2="300" stroke="#33302b" stroke-width="1.5"/>
+  <text x="1406" y="215" text-anchor="end" fill="#7c8a6a" font-size="32" font-weight="600" letter-spacing="6" font-family="Archivo, sans-serif">SOFTWARE</text>
+  <text x="1406" y="257" text-anchor="end" fill="#7c8a6a" font-size="32" font-weight="600" letter-spacing="6" font-family="Archivo, sans-serif">ENGINEER</text>
 
   <!-- bottom-right contact -->
-  <text x="1406" y="312" text-anchor="end" fill="#8a857c" font-size="15" font-weight="600" letter-spacing="4" font-family="Archivo, sans-serif">WEB</text>
-  <text x="1406" y="340" text-anchor="end" fill="#e8e1d0" font-size="26" letter-spacing="1" font-family="JetBrains Mono, monospace">jirodavid.dev</text>
+  <text x="1406" y="306" text-anchor="end" fill="#8a857c" font-size="15" font-weight="600" letter-spacing="4" font-family="Archivo, sans-serif">WEB</text>
+  <text x="1406" y="334" text-anchor="end" fill="#e8e1d0" font-size="26" letter-spacing="1" font-family="JetBrains Mono, monospace">jirodavid.dev</text>
 </svg>
