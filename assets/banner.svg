@@ -1,58 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 340" width="1400" height="340">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 400" width="1500" height="400">
   <defs>
-    <radialGradient id="glow" cx="20%" cy="22%" r="90%">
+    <radialGradient id="glow" cx="22%" cy="30%" r="95%">
       <stop offset="0" stop-color="#1a1815"/>
       <stop offset="1" stop-color="#0e0d0b"/>
     </radialGradient>
   </defs>
 
-  <rect x="4" y="4" width="1392" height="332" rx="22" fill="url(#glow)" stroke="#23211d" stroke-width="1.5"/>
+  <rect x="4" y="4" width="1492" height="392" rx="24" fill="url(#glow)" stroke="#23211d" stroke-width="1.5"/>
 
+  <!-- corner frame marks (clear of content) -->
   <g stroke="#6b6660" stroke-width="2.5" fill="none">
-    <path d="M40 92 V40 H92"/>
-    <path d="M1360 92 V40 H1308"/>
-    <path d="M40 248 V300 H92"/>
-    <path d="M1360 248 V300 H1308"/>
+    <path d="M45 84 V45 H84"/>
+    <path d="M1455 84 V45 H1416"/>
+    <path d="M45 316 V355 H84"/>
+    <path d="M1455 316 V355 H1416"/>
   </g>
 
-  <!-- top left tag + barcode -->
-  <text x="72" y="80" fill="#8a857c" font-size="22" font-weight="600" letter-spacing="7" font-family="Archivo, sans-serif">CRT // DEV</text>
-  <rect x="72" y="94" width="4" height="22" fill="#6b6660"/>
-  <rect x="79" y="106" width="4" height="10" fill="#6b6660"/>
-  <rect x="86" y="94" width="4" height="22" fill="#6b6660"/>
-  <rect x="93" y="108" width="4" height="8" fill="#6b6660"/>
-  <rect x="100" y="98" width="4" height="18" fill="#6b6660"/>
-  <rect x="107" y="108" width="4" height="8" fill="#6b6660"/>
-  <rect x="114" y="94" width="4" height="22" fill="#6b6660"/>
-  <rect x="121" y="104" width="4" height="12" fill="#6b6660"/>
-  <rect x="128" y="108" width="4" height="8" fill="#6b6660"/>
-  <rect x="135" y="94" width="4" height="22" fill="#6b6660"/>
-  <rect x="142" y="108" width="4" height="8" fill="#6b6660"/>
-  <rect x="149" y="98" width="4" height="18" fill="#6b6660"/>
-  <rect x="156" y="94" width="4" height="22" fill="#6b6660"/>
-  <rect x="163" y="106" width="4" height="10" fill="#6b6660"/>
-  <rect x="170" y="108" width="4" height="8" fill="#6b6660"/>
-  <rect x="177" y="94" width="4" height="22" fill="#6b6660"/>
-  <rect x="184" y="104" width="4" height="12" fill="#6b6660"/>
-  <rect x="191" y="108" width="4" height="8" fill="#6b6660"/>
-  <rect x="198" y="98" width="4" height="18" fill="#6b6660"/>
-  <rect x="205" y="94" width="4" height="22" fill="#6b6660"/>
+  <!-- top-left tag + barcode -->
+  <text x="95" y="96" fill="#8a857c" font-size="20" font-weight="600" letter-spacing="7" font-family="Archivo, sans-serif">CRT // DEV</text>
+  <rect x="95" y="102" width="4" height="18" fill="#6b6660"/>
+  <rect x="102" y="112" width="4" height="8" fill="#6b6660"/>
+  <rect x="109" y="102" width="4" height="18" fill="#6b6660"/>
+  <rect x="116" y="114" width="4" height="6" fill="#6b6660"/>
+  <rect x="123" y="106" width="4" height="14" fill="#6b6660"/>
+  <rect x="130" y="114" width="4" height="6" fill="#6b6660"/>
+  <rect x="137" y="102" width="4" height="18" fill="#6b6660"/>
+  <rect x="144" y="110" width="4" height="10" fill="#6b6660"/>
+  <rect x="151" y="114" width="4" height="6" fill="#6b6660"/>
+  <rect x="158" y="102" width="4" height="18" fill="#6b6660"/>
+  <rect x="165" y="114" width="4" height="6" fill="#6b6660"/>
+  <rect x="172" y="106" width="4" height="14" fill="#6b6660"/>
+  <rect x="179" y="102" width="4" height="18" fill="#6b6660"/>
+  <rect x="186" y="112" width="4" height="8" fill="#6b6660"/>
 
-  <!-- top right -->
-  <text x="1330" y="80" text-anchor="end" fill="#c1342c" font-size="22" font-weight="700" letter-spacing="5" font-family="Archivo, sans-serif">NO.01</text>
-  <path d="M1342 62 h16 v16 z" fill="#c1342c"/>
+  <!-- top-right index -->
+  <text x="1406" y="96" text-anchor="end" fill="#c1342c" font-size="20" font-weight="700" letter-spacing="5" font-family="Archivo, sans-serif">NO.01</text>
+  <path d="M1418 80 h15 v15 z" fill="#c1342c"/>
 
-  <!-- katakana -->
-  <text x="74" y="168" fill="#c1342c" font-size="26" font-weight="500" letter-spacing="9" font-family="Noto Sans JP, sans-serif">ジロ・デイビッド</text>
+  <!-- identity block (vertically centred, left) -->
+  <text x="97" y="178" fill="#c1342c" font-size="24" font-weight="500" letter-spacing="9" font-family="Noto Sans JP, sans-serif">ジロ・デイビッド</text>
+  <text x="92" y="270" font-size="96" font-family="Archivo Black, sans-serif"><tspan fill="#e8e1d0">JIRO</tspan><tspan fill="#c1342c"> DAVID</tspan></text>
+  <rect x="98" y="288" width="208" height="9" fill="#c1342c"/>
+  <text x="100" y="330" fill="#7c8a6a" font-size="25" font-weight="600" letter-spacing="9" font-family="Archivo, sans-serif">SOFTWARE ENGINEER</text>
 
-  <!-- name on one line -->
-  <text x="70" y="268" font-size="112" font-family="Archivo Black, sans-serif"><tspan fill="#e8e1d0">JIRO</tspan><tspan fill="#c1342c"> DAVID</tspan></text>
-  <rect x="76" y="286" width="250" height="11" fill="#c1342c"/>
-
-  <!-- right info column -->
-  <line x1="965" y1="120" x2="965" y2="262" stroke="#33302b" stroke-width="1.5"/>
-  <text x="1000" y="158" fill="#7c8a6a" font-size="32" font-weight="600" letter-spacing="6" font-family="Archivo, sans-serif">SOFTWARE</text>
-  <text x="1000" y="200" fill="#7c8a6a" font-size="32" font-weight="600" letter-spacing="6" font-family="Archivo, sans-serif">ENGINEER</text>
-  <text x="1000" y="244" fill="#8a857c" font-size="15" font-weight="600" letter-spacing="4" font-family="Archivo, sans-serif">WEB</text>
-  <text x="1000" y="272" fill="#e8e1d0" font-size="24" letter-spacing="1" font-family="JetBrains Mono, monospace">jirodavid.dev</text>
+  <!-- bottom-right contact -->
+  <text x="1406" y="312" text-anchor="end" fill="#8a857c" font-size="15" font-weight="600" letter-spacing="4" font-family="Archivo, sans-serif">WEB</text>
+  <text x="1406" y="340" text-anchor="end" fill="#e8e1d0" font-size="26" letter-spacing="1" font-family="JetBrains Mono, monospace">jirodavid.dev</text>
 </svg>
