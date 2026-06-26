@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JiroDavid/JiroDavid/main/assets/banner.png?v=5" alt="Jiro David" width="100%"/>
+  <img src="https://raw.githubusercontent.com/JiroDavid/JiroDavid/main/assets/banner.png?v=6" alt="Jiro David" width="100%"/>
 </p>
 
 ### ABOUT 🌿
@@ -39,7 +39,7 @@ Currently open to Software Engineer roles across full-stack, frontend, and backe
 ![Git](https://img.shields.io/badge/Git-7d9d57?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JiroDavid/JiroDavid/main/assets/divider.svg?v=1" alt="" width="70%"/>
+  <img src="https://raw.githubusercontent.com/JiroDavid/JiroDavid/main/assets/divider.png?v=2" alt="" width="70%"/>
 </p>
 
 ### CONTACT 🌱
