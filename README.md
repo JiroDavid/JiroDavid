@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JiroDavid/JiroDavid/main/assets/banner.png?v=6" alt="Jiro David" width="100%"/>
+  <img src="https://raw.githubusercontent.com/JiroDavid/JiroDavid/main/assets/banner.png?v=7" alt="Jiro David" width="100%"/>
 </p>
 
 ### ABOUT 🌿
