@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JiroDavid/JiroDavid/main/assets/banner.png?v=4" alt="Jiro David" width="100%"/>
+  <img src="https://raw.githubusercontent.com/JiroDavid/JiroDavid/main/assets/banner.png?v=5" alt="Jiro David" width="100%"/>
 </p>
 
-### ABOUT 🔻
+### ABOUT 🌿
 
 ```bash
 > whoami
@@ -13,7 +13,7 @@ I like turning messy, manual workflows into something a single click can handle.
 
 Currently open to Software Engineer roles across full-stack, frontend, and backend.
 
-### WORKS 🔻
+### WORKS 🍀
 
 - **[TwitchTok](https://github.com/JiroDavid/twitchtok-showcase)** Turns landscape Twitch clips into vertical 9:16 shorts with AI subtitles and smart crop detection. Full pipeline with Twitch OAuth, real-time transcription, and social metadata.
   `Next.js` `FastAPI` `Whisper` `Ollama` `FFmpeg`
@@ -27,22 +27,22 @@ Currently open to Software Engineer roles across full-stack, frontend, and backe
 - **[Portfolio](https://www.jirodavid.dev)** My personal site, designed and built from scratch.
   `Next.js` `TypeScript` `Tailwind`
 
-### TECH 🔻
+### TECH 🐢
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=e23636)
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=e23636)
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=nextdotjs&logoColor=e23636)
-![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=e23636)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=e23636)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=e23636)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-0a0a0a?style=for-the-badge&logo=ffmpeg&logoColor=e23636)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=e23636)
+![TypeScript](https://img.shields.io/badge/TypeScript-8fae5d?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7d9d57?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-8fae5d?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-7d9d57?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-8fae5d?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-7d9d57?style=for-the-badge&logo=fastapi&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-8fae5d?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7d9d57?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JiroDavid/JiroDavid/main/assets/invaders.svg" alt="" width="80%"/>
+  <img src="https://raw.githubusercontent.com/JiroDavid/JiroDavid/main/assets/divider.svg?v=1" alt="" width="70%"/>
 </p>
 
-### CONTACT 🔻
+### CONTACT 🌱
 
-[![Website](https://img.shields.io/badge/jirodavid.dev-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=e23636)](https://www.jirodavid.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=e23636)](https://linkedin.com/in/jirodavid)
+[![Website](https://img.shields.io/badge/jirodavid.dev-8fae5d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jirodavid.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7d9d57?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jirodavid)
