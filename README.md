@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/JiroDavid/JiroDavid/main/assets/banner.svg" alt="Jiro David" width="100%"/>
 </p>
 
-### 私 ABOUT
+### ABOUT 🔻
 
 ```bash
 > whoami
@@ -13,25 +13,21 @@ I like turning messy, manual workflows into something a single click can handle.
 
 Currently open to Software Engineer roles across full-stack, frontend, and backend.
 
-### 作品 WORKS
+### WORKS 🔻
 
-**[TwitchTok](https://github.com/JiroDavid/twitchtok-showcase)**
-Turns landscape Twitch clips into vertical 9:16 shorts with AI subtitles and smart crop detection. Full pipeline with Twitch OAuth, real-time transcription, and social metadata.
-`Next.js` `FastAPI` `Whisper` `Ollama` `FFmpeg`
+- **[TwitchTok](https://github.com/JiroDavid/twitchtok-showcase)** Turns landscape Twitch clips into vertical 9:16 shorts with AI subtitles and smart crop detection. Full pipeline with Twitch OAuth, real-time transcription, and social metadata.
+  `Next.js` `FastAPI` `Whisper` `Ollama` `FFmpeg`
 
-**[ShimaTTS](https://github.com/JiroDavid/ShimaTTS)**
-Lets streamers trigger AI voice-cloned TTS alerts on Twitch channel-point redemptions, running fully offline with OBS integration.
-`Python` `F5-TTS` `OBS`
+- **[ShimaTTS](https://github.com/JiroDavid/ShimaTTS)** Lets streamers trigger AI voice-cloned TTS alerts on Twitch channel-point redemptions, running fully offline with OBS integration.
+  `Python` `F5-TTS` `OBS`
 
-**[Video Storyboarder](https://github.com/JiroDavid/video-storyboarder)**
-Feed it a video intro and get back an AI storyboard, teleprompter script, and sketch-style frames.
-`Whisper` `LLaVA` `ComfyUI` `Gradio`
+- **[Video Storyboarder](https://github.com/JiroDavid/video-storyboarder)** Feed it a video intro and get back an AI storyboard, teleprompter script, and sketch-style frames.
+  `Whisper` `LLaVA` `ComfyUI` `Gradio`
 
-**[Portfolio](https://www.jirodavid.dev)**
-My personal site, designed and built from scratch.
-`Next.js` `TypeScript` `Tailwind`
+- **[Portfolio](https://www.jirodavid.dev)** My personal site, designed and built from scratch.
+  `Next.js` `TypeScript` `Tailwind`
 
-### 技術 TECH
+### TECH 🔻
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=e23636)
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=e23636)
@@ -46,7 +42,7 @@ My personal site, designed and built from scratch.
   <img src="https://raw.githubusercontent.com/JiroDavid/JiroDavid/main/assets/invaders.svg" alt="" width="80%"/>
 </p>
 
-### 連絡 CONTACT
+### CONTACT 🔻
 
 [![Website](https://img.shields.io/badge/jirodavid.dev-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=e23636)](https://www.jirodavid.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=e23636)](https://linkedin.com/in/jirodavid)
