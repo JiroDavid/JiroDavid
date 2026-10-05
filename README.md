@@ -15,6 +15,9 @@ Currently open to Software Engineer roles across full-stack, frontend, and backe
 
 ### WORKS 🍀
 
+- **[TwitchTok](https://github.com/JiroDavid/twitchtok-showcase)** Turns landscape Twitch clips into vertical 9:16 shorts with AI subtitles and smart crop detection. Full pipeline with Twitch OAuth, real-time transcription, and social metadata.
+  `Next.js` `FastAPI` `Whisper` `Ollama` `FFmpeg`
+
 - **[ShimaTTS](https://github.com/JiroDavid/ShimaTTS)** Lets streamers trigger AI voice-cloned TTS alerts on Twitch channel-point redemptions, running fully offline with OBS integration.
   `Python` `F5-TTS` `OBS`
 
@@ -23,9 +26,6 @@ Currently open to Software Engineer roles across full-stack, frontend, and backe
 
 - **[ShimaDo](https://github.com/JiroDavid/shimaDo)** A Windows desktop to-do app built from floating always-on-top panels: checklist, recurring schedule with reminders, gym split, progress charts, and a habit tracker. Resizable and multi-monitor aware, with a downloadable installer.
   `Electron` `React` `TypeScript` `Tailwind` `Vite`
-
-- **[TwitchTok](https://github.com/JiroDavid/twitchtok-showcase)** Turns landscape Twitch clips into vertical 9:16 shorts with AI subtitles and smart crop detection. Full pipeline with Twitch OAuth, real-time transcription, and social metadata.
-  `Next.js` `FastAPI` `Whisper` `Ollama` `FFmpeg`
 
 - **[Portfolio](https://www.jirodavid.dev)** My personal site, designed and built from scratch.
   `Next.js` `TypeScript` `Tailwind`
