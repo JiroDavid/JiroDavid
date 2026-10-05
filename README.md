@@ -15,6 +15,9 @@ Currently open to Software Engineer roles across full-stack, frontend, and backe
 
 ### WORKS 🍀
 
+- **[ShimaDo](https://github.com/JiroDavid/shimaDo)** A Windows desktop to-do app built from floating always-on-top panels: checklist, recurring schedule with reminders, gym split, progress charts, and a habit tracker. Resizable and multi-monitor aware, with a downloadable installer.
+  `Electron` `React` `TypeScript` `Tailwind` `Vite`
+
 - **[TwitchTok](https://github.com/JiroDavid/twitchtok-showcase)** Turns landscape Twitch clips into vertical 9:16 shorts with AI subtitles and smart crop detection. Full pipeline with Twitch OAuth, real-time transcription, and social metadata.
   `Next.js` `FastAPI` `Whisper` `Ollama` `FFmpeg`
 
@@ -37,6 +40,10 @@ Currently open to Software Engineer roles across full-stack, frontend, and backe
 ![FastAPI](https://img.shields.io/badge/FastAPI-7d9d57?style=for-the-badge&logo=fastapi&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-8fae5d?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-7d9d57?style=for-the-badge&logo=git&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-8fae5d?style=for-the-badge&logo=electron&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7d9d57?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8fae5d?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-7d9d57?style=for-the-badge&logo=docker&logoColor=white)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JiroDavid/JiroDavid/main/assets/divider.png?v=2" alt="" width="70%"/>
